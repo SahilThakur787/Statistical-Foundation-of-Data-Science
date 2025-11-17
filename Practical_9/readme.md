@@ -1,4 +1,5 @@
 🌼 Iris Dataset — KNN Classification Project
+
 🎯 Objective
 
 This practical focuses on applying the K-Nearest Neighbors (KNN) algorithm to the classic Iris dataset to classify flowers into their respective species.
@@ -8,13 +9,16 @@ During the process, you explore how distance-based classification works through 
 
 The Iris dataset contains 150 samples of iris flowers belonging to three distinct species. Each sample includes four measurements:
 
+
 Feature	Meaning
 sepal length (cm)	Sepal measurement (length)
 sepal width (cm)	Sepal measurement (width)
 petal length (cm)	Petal measurement (length)
 petal width (cm)	Petal measurement (width)
 species	Class label — Setosa, Versicolor, Virginica
+
 🛠 Tools & Libraries
+
 Library/Tool	Use
 Python	Programming
 pandas	Data handling
@@ -22,7 +26,9 @@ NumPy	Numerical operations
 scikit-learn	KNN model, preprocessing, metrics
 Matplotlib	Graphs & plots
 Jupyter/Colab	Running the workflow
+
 🧪 Step-by-Step Workflow
+
 1️⃣ Exploratory Data Analysis (EDA)
 
 Basic functions like head(), describe(), and groupby() were used to understand:
