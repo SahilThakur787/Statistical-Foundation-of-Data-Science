@@ -102,5 +102,3 @@ For academic and research purposes.
 Data courtesy of the **SILSO World Data Center**, Royal Observatory of Belgium, Brussels.
 
 ---
-
-If you'd like a PDF report, visual outputs, GitHub formatting, or project folder structure—just ask! 🚀
